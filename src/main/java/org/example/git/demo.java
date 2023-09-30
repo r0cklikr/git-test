@@ -9,5 +9,6 @@ public class demo {
         System.out.println("master test");
         System.out.println("hot -fix");
         System.out.println("second");
+        System.out.println("push");
     }
 }
