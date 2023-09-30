@@ -11,5 +11,6 @@ public class demo {
         System.out.println("second");
         System.out.println("push");
         System.out.println("push2");
+        System.out.println("push3");
     }
 }
